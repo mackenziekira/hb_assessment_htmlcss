@@ -1,2 +1,12 @@
-/* Your CSS goes here */
+input, select {
+    background-color: #fafad2;
+}
 
+input[name="lastname"] {
+    font-weight: bold;
+}
+
+section.instructions {
+    border: .1em solid black;
+    margin: 1em 0em;
+}
